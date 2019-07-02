@@ -1,0 +1,1 @@
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function"==typeof define&&define.amd?define(n):(e=e||self,e.Demo=n())}(this,function(){"use strict";return function(){function e(e){this.name=e}return e.prototype.sayName=function(){console.log(this.name)},e}()});
